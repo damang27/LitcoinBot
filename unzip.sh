@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-clear
+ls
 unzip LitecoinBot.zip
 
 echo
