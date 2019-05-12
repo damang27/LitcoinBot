@@ -1,1 +1,1 @@
-# LitcoinBot
+# LitecoinBot
