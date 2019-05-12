@@ -17,6 +17,6 @@ pip install -r requirements.txt
 echo
 echo -e "\e[1m Subscribe to Termux Tricks & Tut"
 echo
-echo -e "\e[1m\e[32m Enter :\e[33m bash run.sh"
+echo -e "\e[1m\e[32m Enter :\e[33m cd LitecoinBot"
 echo
 
